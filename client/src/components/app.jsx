@@ -1,6 +1,6 @@
 import React from 'react';
 
-import CalendarApp from './calendar/CalendarApp.jsx';
+import CalendarApp from './calendar/calendarApp.jsx';
 import BookingForm from './sidebar/bookingForm.jsx';
 
 // import DoubleCalendarApp from './doubleCalendar/doubleCalendarApp.jsx';

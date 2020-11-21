@@ -1,6 +1,6 @@
 import React from 'react';
 import CalendarModal from '../modals/calendarModal.jsx';
-import DoubleCalendarApp from '../doubleCalendar/DoubleCalendarApp.jsx'
+import DoubleCalendarApp from '../doubleCalendar/doubleCalendarApp.jsx'
 
 class Dates extends React.Component {
   constructor(props) {
